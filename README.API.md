@@ -5,8 +5,8 @@ Postman — Plataforma para desenvolvimento, execução e automação de testes 
 API Fake REST Books — API pública utilizada nos testes: https://fakerestapi.azurewebsites.net/index.html
 
 ## Cenários de Teste e Resultados
-[Cenários e Casos de Testes - FADESP](/API/Casos%20de%20Teste%20e%20Resultados.pdf).
-[Resultado dos Testes - FADESP](/API//Resultado%20dos%20Testes.pdf)
+[Cenários e Casos de Testes - FADESP](/api-rest-fakeapi/Casos%20de%20Teste%20e%20Resultados.pdf).
+[Resultado dos Testes - FADESP](/api-rest-fakeapi/Resultado%20dos%20Testes.pdf)
 
 ## Material para Consulta: 
 [Postman] (https://www.postman.com/yasmimbarros/workspace/fadesp-desafio-tcnico-qa/collection/45546112-f100845d-2dae-4bbf-b787-713192c8e287?action=share&source=copy-link&creator=45546112)
